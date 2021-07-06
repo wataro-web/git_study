@@ -9,6 +9,10 @@
 <?php
 echo "課題20-2";
 ?>
+<br>
+<?php
+echo "GITコミットテスト20-2";
+?>
 
 </body>
 </html>
